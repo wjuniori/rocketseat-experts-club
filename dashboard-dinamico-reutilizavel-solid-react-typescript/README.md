@@ -13,7 +13,7 @@ Cria multiplos dashboards, de maneira dinâmica, e de acordo com os dados que vo
 ## Como instalar e rodar o projeto?
 
 1. `yarn`: para instalar após clonar o repositório.
-2. `yarn start` após installar o projeto.
+2. `yarn start` após instalar o projeto.
 
 ## Como eu instalei o projeto?
 
@@ -52,6 +52,12 @@ https://www.linkedin.com/pulse/reusable-share-button-using-solid-principles-reac
 Canal no Youtube onde o Rafael Perozin vai além do código e fala de soft skills e tudo que um desenvolvedor precisa para se diferenciar no mercado e se tornar um profissional de sucesso.:
 
 https://www.youtube.com/c/rafaelperozin
+
+GitHub: 
+
+https://github.com/rocketseat-experts-club/dashboard-dinamico-reutilizavel-solid-react-typescript
+
+https://github.com/rafaelperozin/react-smart-dashboard
 
 ## Configurações usadas no projeto
 
@@ -282,5 +288,4 @@ Você pode ver tudo nos arquivos que estão na raiz do projeto.
     "opacity: 0.5"
   ]
 }
-
 ```
